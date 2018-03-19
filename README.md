@@ -137,3 +137,4 @@ void DrawTriangle(ponto p1, ponto p2, ponto p3) {
 
 - UNIVASF - Primitivas Gráficas http://www.univasf.edu.br/~jorge.cavalcanti/comput_graf04_prim_graficas2.pdf
 - Material do professor sobre o algoritmo de Bresenham
+- Interpolação linear - https://tarcisio.wordpress.com/tag/interpolacao-linear/
