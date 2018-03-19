@@ -132,3 +132,8 @@ void DrawTriangle(ponto p1, ponto p2, ponto p3) {
 
 - O algoritmo de Bresenham teve que ser adaptado, pois originalmente ele não funciona se os valores do ponto final forem menores que os valores do ponto inicial, para superar isso, o algoritmo se adapta, para dependendo de cada quadrante o ponto se encontrar, ele poder funcionar.
 - É um algoritmo facilmente implementável, por usar apenas variáveis do tipo inteiro, dispensa uso de bibliotecas adicionais, ajudando no desempenho do programa, porém, houve a utilização da biblioteca math.h, para implementação da interpolação linear.
+
+## Referências Bibliográficas
+
+- http://www.univasf.edu.br/~jorge.cavalcanti/comput_graf04_prim_graficas2.pdf
+- Material do professor sobre o algoritmo de Bresenham
